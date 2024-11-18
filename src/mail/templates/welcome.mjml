@@ -1,0 +1,20 @@
+<mjml>
+  <mj-head>
+    <mj-preview>Welcome to MyApp!</mj-preview>
+  </mj-head>
+  <mj-body>
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          <h1>Welcome, {{name}}!</h1>
+        </mj-text>
+        <mj-text>
+          <p>We are excited to have you on board. Click the button below to confirm your email.</p>
+        </mj-text>
+        <mj-text>
+          <p>Thank you for joining us!</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
